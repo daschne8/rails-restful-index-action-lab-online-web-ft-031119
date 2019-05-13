@@ -351,3 +351,10 @@ Processing by StaticController#students as HTML
 Completed 200 OK in 13ms (Views: 11.9ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/students" for 69.88.41.168 at 2019-05-13 17:33:52 +0000
+Processing by StaticController#students as HTML
+  Rendering static/students.html.erb within layouts/application
+  Rendered static/students.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 12ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
