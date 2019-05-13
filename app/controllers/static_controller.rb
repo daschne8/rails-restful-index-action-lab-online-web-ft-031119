@@ -1,7 +1,9 @@
 class StaticController < ApplictaionController
 
-  def students
+  def index
+  end
 
+  def students
   end
 
 end
