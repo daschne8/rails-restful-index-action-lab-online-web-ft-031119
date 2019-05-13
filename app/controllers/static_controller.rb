@@ -1,4 +1,4 @@
-class StaticController < ApplictaionController
+class StaticController < ApplicationController
 
   def index
   end
