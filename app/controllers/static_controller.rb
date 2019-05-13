@@ -5,6 +5,7 @@ class StaticController < ApplicationController
   end
 
   def students
+    @students = Student.all
   end
 
 end
