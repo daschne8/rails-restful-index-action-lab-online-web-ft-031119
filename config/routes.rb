@@ -1,7 +1,5 @@
 Rails.application.routes.draw do
 
-  get '/students' do
-
-  end
+  get '/students', to: 'static#hello_world'
 
 end
