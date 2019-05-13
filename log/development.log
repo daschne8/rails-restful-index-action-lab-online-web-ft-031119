@@ -290,3 +290,6 @@ Started GET "/index" for 69.88.41.168 at 2019-05-13 17:29:49 +0000
 Processing by StaticController#index as HTML
   Rendering static/index.html.erb within layouts/application
   Rendered static/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 392ms (Views: 390.8ms | ActiveRecord: 0.0ms)
+
+
